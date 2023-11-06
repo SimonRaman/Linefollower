@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano
 
-motors: 
+motors: micro metal gear motoren van Pololu 600 rpm
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8a
 
-batteries:
+batteries: 2 x 18650 batterijen (samen = 7,2 V)
 
-wireless communication:
+wireless communication: HC-05
 
 distance sensor - motors:
 
