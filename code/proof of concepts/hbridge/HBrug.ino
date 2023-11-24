@@ -58,4 +58,52 @@ void loop() {
   }
 
   delay(2000);
+
+  // Motors voorwaarts
+  // Versnellen
+  for (int i = 0; i <= 255; i++)
+  {
+    analogWrite(IN1, i);
+    analogWrite(IN2, 0);
+    analogWrite(IN3, 0);
+    analogWrite(IN4, 0);
+    delay(10);
+  }
+  
+  //Vertragen
+  for (int i = 255; i >= 0; i--)
+  {
+    analogWrite(IN1, i);
+    analogWrite(IN2, 0);
+    analogWrite(IN3, 0);
+    analogWrite(IN4, 0);
+    delay(10);
+  }
+
+  delay(2000);
+
+  // Achterwaarts
+  //Versnellen
+  for (int i = 0; i <= 255; i++)
+  {
+    analogWrite(IN1, 0);
+    analogWrite(IN2, 0);
+    analogWrite(IN3, 0);
+    analogWrite(IN4, i);
+    delay(10);
+  }
+  //Vertragen
+  for (int i = 255; i >= 0; i--)
+  {
+    analogWrite(IN1, 0);
+    analogWrite(IN2, 0);
+    analogWrite(IN3, 0);
+    analogWrite(IN4, i);
+    delay(10);
+  }
+
+  delay(2000);
+}
+
+  delay(2000);
 }
