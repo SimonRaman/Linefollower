@@ -10,7 +10,7 @@
 |         5|  velg  |     Vormd samen met een band een wiel.       |     nieuw      |     € 1    |   2   |    € 6     |
 |         6|   playmobile band |   Vormd samen met een velg een wiel.    |    recup    |    gratis     |    2  |    € 6     |
 |         7|  schakelaar (KCD11-101) | Hoofdschakelaar om de robot in- of uit te schakelen.  | nieuw | € 0,83  | 1 |  € 6,83    |
-|         8|  DuPont Jumper draad Female-Female 20cm 10 draden  | Kabeles om sensor met printplaat te verbinden. | nieuw  |   € 0,75   | 2 | € 8,33 |
+|         8|  DuPont Jumper draad Female-Female 20cm 10 draden | Kabeles om sensor met printplaat te verbinden. | nieuw  | € 0,75 | 2 | € 8,33 |
 |         9|  motorhouder  |  Deze dient om de motor mee te bevestingen aan het chassis | nieuw | € 1  |  1  |  € 9,33 |
 |         10|  motor  | micro metal gear motor 6V 50:1 |   nieuw   |  € 3,25   |   2   |   € 15,83   |
 |         11|   batterij | type batterij: 18650 |      recup     |    € 3,5     |   2   |     € 22,83    |
@@ -30,3 +30,5 @@
 |         25|  4 Pin Schroef Terminal Block Connector 2.54mm Afstand  |       /     |    nieuw  |     € 0,45    |   1   |  € 34,03       |
 |         26|  Bout M3 - 5mm draad - 100 stuks  |       /     |    nieuw  |     € 2,50    |   1   |     € 36,53    |
 |         27|  10 x Afstandsbusje M3   |      6mm bushoogte - 6mm draadhoogte     |    nieuw  |     € 1,50    |   1   |   € 38,03      |
+|         28|  Printplaat | Hierop wordt alle elektronica bevestigd | nieuw | € 6,71 | 1 | € 44, 74 |
+|         29| Bluetooth module |  / | recup | € 3,90 | 1 | € 48, 64 |
