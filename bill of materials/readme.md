@@ -31,6 +31,6 @@
 |         26|  Bout M3 - 5mm draad - 100 stuks  |       /     |    nieuw  |     € 2,5    |   1   |     € 2,5    |
 |         27|  10 x Afstandsbusje M3   |      6mm bushoogte - 6mm draadhoogte     |    nieuw  |     € 1,5    |   1   |   € 1,5     |
 |         28|  Printplaat | Hierop wordt alle elektronica bevestigd | nieuw | € 6,71 | 1 | € 6,71 |
-|         29| Bluetooth module |  / | recup | € 3,90 | 1 | € 3,90 |
+|         29| Bluetooth module |  Type: HC-05 | recup | € 3,90 | 1 | € 3,90 |
 |         30| Batterij oplader |  / | recup | € 3,69 | 1 | € 3,69 |
 | | | | | | Totaal | € 52,33 |
