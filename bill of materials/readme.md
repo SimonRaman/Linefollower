@@ -28,5 +28,5 @@
 |         23|  40 Pins header Male - 90 graden  |  /  |  nieuw    |    € 0,50	  |   1   |      € 33,28   |
 |         24|  2 Pin Schroef Terminal Block Connector 2.54mm Afstand  |      /      |    nieuw   |   € 0,30	   |   1   |   € 33,58      |
 |         25|  4 Pin Schroef Terminal Block Connector 2.54mm Afstand  |       /     |    nieuw  |     € 0,45    |   1   |  € 34,03       |
-|         26|  Bout M3 - 5mm draad - 100 stuks  |       /     |    nieuw  |     € 2,50    |   1   |         |
-|         27|  10 x Afstandsbusje M3   |      6mm bushoogte - 6mm draadhoogte     |    nieuw  |     € 1,50    |   1   |         |
+|         26|  Bout M3 - 5mm draad - 100 stuks  |       /     |    nieuw  |     € 2,50    |   1   |     € 36,53    |
+|         27|  10 x Afstandsbusje M3   |      6mm bushoogte - 6mm draadhoogte     |    nieuw  |     € 1,50    |   1   |   € 38,03      |
