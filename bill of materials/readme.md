@@ -19,7 +19,7 @@
 |         14|  Arduino Nano  |   De gebruikte microcontroller         |     recup      |     € 2,61    |  1    |         |
 |         15|  DRV8833  |      De gebruikte h-brug      |      nieuw     |      € 0,48   |  1    |         |
 |         16|  knop  |     De startknop       |      recup     |    € 0,10     |   1   |         |
-|         17|  led  |      De led die weer geeft of de auto aan- of uit staat  | recup |  € 0,10    |  1    |      |
+|         17|  5 mm led  |      De led die weer geeft of de auto aan- of uit staat  | recup |  € 0,10    |  1    |      |
 |         18|  weerstand 220 Ω  |      De weerstand voor de led    |     recup      |    € 0,05     |   1   |         |
 |         19|  weerstand 10 kΩ  |  Pull-down weerstand voor de startknop.  |     recup      |    € 0,05    |   1   |         |
 |         20|  15 Pins header Female  |      /      |      nieuw     |    € 0,31	     |    2  |         |
