@@ -33,4 +33,4 @@
 |         28|  Printplaat | Hierop wordt alle elektronica bevestigd | nieuw | € 6,71 | 1 | € 44, 74 |
 |         29| Bluetooth module |  / | recup | € 3,90 | 1 | € 48, 64 |
 |         30| Batterij oplader |  / | recup | € 3,69 | 1 | € 52, 33 |
-|----------|----|------------|-----------|---------|------| € 52,33 |
+| | | | | | Totaal | € 52,33 |
