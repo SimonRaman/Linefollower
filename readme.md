@@ -2,7 +2,7 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![Uploading 406793047_1077677740050401_2308684094164303501_n.jpg…]()
 
   
 ## specifications
