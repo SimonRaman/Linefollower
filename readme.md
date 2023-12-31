@@ -23,5 +23,5 @@ distance sensor - motors: 8 cm
 
 weight: 295 g
 
-speed: 0,61
+speed: 0,61 m/s
 
